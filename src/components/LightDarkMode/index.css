@@ -1,0 +1,53 @@
+.dbg-container {
+  background-color: #000000;
+  background-size: contain;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border: white;
+}
+
+.dheading {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.dbutton {
+  color: #000000;
+  background-color: #ffffff;
+  padding: 10px;
+  border-radius: 6px;
+  border-color: transparent;
+}
+
+.lbg-container {
+  background-color: #ffffff;
+  background-size: contain;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  border: white;
+  margin-top: auto;
+  margin-left: auto;
+}
+
+.lheading {
+  color: #000000;
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.lbutton {
+  color: #ffffff;
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 6px;
+  border-color: transparent;
+}
